@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-</div>
 
 ###
 
 <h1 align="left">Hi There! 👋</h1>
 
 ###
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+</div>
 
 <h3 align="left">My name is Kim Jong Won and I'm a UnityDeveloper & Shader Artist</h3>
 
