@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <img src="[https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif](https://velog.velcdn.com/images/dlgkdms4660/post/0c30f359-13c2-4a7f-a18c-4b14b79dc576/image.gif)" width="30"><br>
 </div>
 
 <h3 align="left">My name is Kim Jong Won and I'm a UnityDeveloper & Shader Artist</h3>
