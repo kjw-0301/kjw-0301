@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://discord.com/api/webhooks/1214379859166634064/0_2GPMhdNaooR43RNke5qq_70iLsZ5-cOnErKYtjmxzd_tgMuzqbOUStG3Br-TT-sf1M" target="_blank">
+  <a href="https://discord.com/api/webhooks/1214379859166634064/0_2GPMhdNaooR43RNke5qq_70iLsZ5-cOnErKYtjmxzd_tgMuzqbOUStG3Br-TT-sf1M/github" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
