@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Unity, C# & VFX<br>🎯 Goals: I want to become a TA in the next five years.<br>🎲 Fun fact: I actually like exercise more.. (ex. CrossFit, Soccer..)</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Unity, C# & VFX<br>🎯 Goals: I want to become a Senior Unity Developer in the next five years.<br>🎲 Fun fact: I actually like exercise more.. (ex. CrossFit, Soccer..)</p>
 
 ###
 
