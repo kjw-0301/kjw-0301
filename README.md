@@ -9,7 +9,7 @@
   <img src= "https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif](https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif" width="300"><br>
 </div>
 
-<h3 align="left">My name is Kim Jong Won and I'm a UnityDeveloper & Shader Artist</h3>
+<h3 align="left">My name is Kim Jong Won and I'm a UnityDeveloper</h3>
 
 ###
 
