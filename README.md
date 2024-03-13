@@ -36,14 +36,3 @@
 </div>
 
 ###
-
-<h2 align="left">Connected Me?!</h2>
-
-###
-
-<div align="left">
-  <a href="https://discord.gg/tgaP62w9Fz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-
-</div>
-
-###
